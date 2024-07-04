@@ -27,5 +27,4 @@ target_include_directories(IfcParser
     ${DiceTest_SOURCE_DIR}/IfcPlusPlus/src/external/Carve/src/include
     ${DiceTest_SOURCE_DIR}/IfcPlusPlus/src/external/Carve/src/common
     ${DiceTest_SOURCE_DIR}/IfcPlusPlus/src/external/Carve/build/src
-    ${DiceTest_SOURCE_DIR}/IfcPlusPlus/src/external/glm
 )
